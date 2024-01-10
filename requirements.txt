@@ -3,3 +3,4 @@ keras
 Pillow
 numpy
 chardet
+tensorflow
